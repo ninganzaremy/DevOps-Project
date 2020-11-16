@@ -1,4 +1,4 @@
-# Simple DevOps Project
+# Simple SRE Project
 
 This Repository is a collection of Implementation documents. 
 
